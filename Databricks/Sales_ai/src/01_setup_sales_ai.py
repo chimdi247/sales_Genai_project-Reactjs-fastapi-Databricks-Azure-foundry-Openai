@@ -1,4 +1,4 @@
-# Databricks notebook source
+# Databricks notebook sources
 # /// script
 # [tool.databricks.environment]
 # environment_version = "5"
@@ -85,4 +85,3 @@
 # MAGIC CREATE VOLUME IF NOT EXISTS sales_ai.bronze.raw_files;
 
 # COMMAND ----------
-
